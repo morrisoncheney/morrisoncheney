@@ -20,8 +20,6 @@ I’m a BYU student who enjoys writing code, solving science problems, and being
 - Data Science
 - Also Physics and Chemistry 
 
----
-
 ## Recent Projects
 - Various data analysis studies  
 - A text-based RPG using an API that obeys D&D 5e–like rules  
