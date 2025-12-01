@@ -1,4 +1,4 @@
-##My Name is Morrison Cheney
+## My Name is Morrison Cheney
 I’m a BYU student who enjoys writing code, solving science problems, and being outdoors.
 
 Languages: Python, C++, SQL
