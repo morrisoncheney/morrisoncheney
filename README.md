@@ -2,10 +2,6 @@
 
 I’m a BYU student who enjoys writing code, solving science problems, and being outdoors.
 
----
-
-## 🛠️ Technologies
-
 **Languages:**  
 - Python  
 - C++  
@@ -17,18 +13,17 @@ I’m a BYU student who enjoys writing code, solving science problems, and being
 - scikit-learn  
 - matplotlib  
 
+
+## Areas I am interested in
+- Machine learning 
+- Mathematics (especially Linear algebra)
+- Data Science
+- Also Physics and Chemistry 
+
 ---
 
-## 📚 What I'm Learning
-- Machine learning (teaching computers to be smarter than me)  
-- Linear algebra (turns out matrices are everywhere)  
-- Writing cleaner, less embarrassing code  
-
----
-
-## 🚀 Recent Projects
-- K-Means clustering experiments  
-- Various data analysis notebooks  
+## Recent Projects
+- Various data analysis studies  
 - A text-based RPG using an API that obeys D&D 5e–like rules  
 
 <!--
